@@ -19,4 +19,6 @@ jupyterlite-xeus-wren==0.2.1
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 requests>=2.28.1
+GeoAlchemy2>=0.12.5
+geopandas>=0.12.1
 theme-darcula
